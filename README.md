@@ -30,7 +30,7 @@ I specialize in modern **JavaScript/TypeScript**, **Python**, and **C#/.NET** st
 
 ## 📊 GitHub Stats
 
-![ForwardBuddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForwardBuddy&show_icons=true&theme=dracula)
+## ![ForwardBuddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForwardBuddy&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForwardBuddy&layout=compact&theme=dracula)
 
