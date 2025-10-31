@@ -34,29 +34,4 @@ I specialize in modern **JavaScript/TypeScript**, **Python**, and **C#/.NET** st
 
 ---
 
-## 🌟 Featured Projects
-
-- [**AI-Powered Healthcare Platform**](#) – Secure patient data processing with Python + Node.js + AI models  
-- [**GetCodexa**](#) – Gamified ICD-10 coding app (React Native + Firebase + Stripe)  
-- [**E-Commerce Customizations**](#) – Shopify Liquid + custom APIs to improve conversion rates  
-- [**Risk Management Dashboard**](#) – AI-driven loss analysis with Power BI & Django  
-
----
-
-## 📝 Articles & Writing
-
-- [Using AI APIs (OpenAI & Gemini) in Real-World Apps](#)  
-- [Scaling SaaS with AWS & Serverless](#)  
-- [Building Custom Shopify Solutions That Convert](#)  
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/forwardbuddy)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:xscaleinfo@gmail.com)  
-
----
-
 ⭐️ From [ForwardBuddy](https://github.com/ForwardBuddy)
