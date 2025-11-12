@@ -28,4 +28,4 @@ I specialize in modern **JavaScript/TypeScript**, **Python**, and **C#/.NET** st
 
 ---
 
-⭐️ From [ForwardBuddy](https://github.com/ForwardBuddy)
+⭐️ From [ForwardBuddy](https://github.com/ForwardBuddyAI)
