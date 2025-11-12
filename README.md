@@ -28,10 +28,4 @@ I specialize in modern **JavaScript/TypeScript**, **Python**, and **C#/.NET** st
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForwardBuddy&layout=compact&theme=dracula)
-
----
-
 ⭐️ From [ForwardBuddy](https://github.com/ForwardBuddy)
